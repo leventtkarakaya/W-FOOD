@@ -6,6 +6,7 @@ import { Link as ScrollLink } from "react-scroll";
 import Nav from "./Nav";
 import NavMobile from "./NavMobile";
 import { Button } from "./ui/button";
+
 const Header = () => {
   const [active, setActive] = useState(false);
 
